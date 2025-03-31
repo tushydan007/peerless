@@ -1,0 +1,101 @@
+2025-03-29 12:22:52,007 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:23:55,587 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:23:55,893 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:24:02,109 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:24:02,424 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:24:04,633 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:24:04,946 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:24:08,120 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:24:08,388 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:24:09,534 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:24:09,925 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:24:11,203 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:24:11,549 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:25:20,216 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:25:20,592 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:25:22,854 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:25:23,177 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:26:12,415 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:26:12,721 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:26:13,883 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:26:14,164 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:26:15,341 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:26:15,639 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:26:19,837 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:26:20,175 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:26:26,347 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:26:26,627 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:27:19,055 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:27:19,377 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:27:33,609 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:27:33,884 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:27:42,069 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:27:42,420 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:27:44,573 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:27:44,851 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:28:34,235 (INFO) - django.utils.autoreload - /usr/lib/python3.12/concurrent/__init__.py changed, reloading.
+2025-03-29 12:28:35,047 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:29:02,282 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:29:02,611 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:29:06,787 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:29:07,090 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:29:24,319 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:29:24,614 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:30:58,299 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:30:58,604 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:31:16,850 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:31:17,149 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:31:19,306 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:31:19,601 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:31:29,814 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:31:30,151 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:31:35,327 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:31:35,651 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:31:47,865 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:31:48,161 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-29 12:31:49,308 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-29 12:31:49,641 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-30 18:57:23,632 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-30 19:00:43,071 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-30 19:06:23,894 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-30 20:38:34,509 (INFO) - django.utils.autoreload - /home/tushydan/peerless/user/models.py changed, reloading.
+2025-03-30 20:38:35,364 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-30 20:38:55,851 (INFO) - django.utils.autoreload - /home/tushydan/peerless/user/models.py changed, reloading.
+2025-03-30 20:38:56,220 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-30 21:32:29,139 (INFO) - django.utils.autoreload - /home/tushydan/peerless/user/models.py changed, reloading.
+2025-03-30 21:32:29,559 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:04:02,224 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:21:16,357 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:21:58,121 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:22:28,328 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:27:19,714 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:27:20,107 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:27:23,554 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:27:24,032 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:27:33,433 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:27:33,863 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:27:38,179 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:27:38,560 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:27:40,855 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:27:41,329 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:28:45,644 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:28:46,043 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:28:49,489 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:28:49,874 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:29:21,785 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:29:50,591 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:29:50,996 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:33:07,277 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:33:07,705 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:33:08,965 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:33:09,359 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:33:27,643 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:34:09,781 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:34:10,240 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:34:17,491 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:34:36,132 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:34:36,446 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:36:12,144 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:36:12,471 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-03-31 10:36:13,857 (INFO) - django.utils.autoreload - /home/tushydan/peerless/peerless/settings.py changed, reloading.
+2025-03-31 10:36:14,229 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
