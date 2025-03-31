@@ -3,7 +3,7 @@ from rest_framework.serializers import ModelSerializer
 from .models import User
 from django.contrib.auth import get_user_model
 from django.utils.timezone import now
-from tasks import send_verification_email
+from .tasks import send_verification_email
     
 
 

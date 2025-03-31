@@ -2,7 +2,10 @@ from django.shortcuts import render
 from rest_framework.response import Response
 from rest_framework_simplejwt.tokens import RefreshToken
 from rest_framework.viewsets import ModelViewSet
+from rest_framework.decorators import action
+from rest_framework.permissions import IsAuthenticated
 from .models import User
+from rest_framework.views import APIView
 from .serializers import UserSerializer
 
 # Create your views here.
@@ -16,10 +19,8 @@ class UserViewSet(ModelViewSet):
         serializer = UserSerializer(request.user)
         return Response(serializer.data)
     
-
-    
-class VerifyEmailView(views.APIView):
-    def post(self, request):
+    @action(detail=False, methods=['post'])
+    def verify_email(self, request):
         token = request.data.get('token')
         user = User.objects.filter(verification_token=token).first()
         if user:
@@ -30,7 +31,10 @@ class VerifyEmailView(views.APIView):
             return Response({'message': 'Account verified.'})
         return Response({'error': 'Invalid token.'}, status=status.HTTP_400_BAD_REQUEST)
     
-class LoginView(views.APIView):
+    
+
+    
+class LoginView(APIView):
     def post(self, request):
         serializer = LoginSerializer(data=request.data)
         if serializer.is_valid():
@@ -42,15 +46,9 @@ class LoginView(views.APIView):
             })
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
     
-class UserProfileView(viewsets.ViewSet):
-    permission_classes = [permissions.IsAuthenticated]
     
-    def retrieve(self, request):
-        serializer = UserSerializer(request.user)
-        return Response(serializer.data)
-    
-class LogoutView(views.APIView):
-    permission_classes = [permissions.IsAuthenticated]
+class LogoutView(APIView):
+    permission_classes = [IsAuthenticated]
     
     def post(self, request):
         try:
