@@ -58,8 +58,8 @@ WSGI_APPLICATION = 'peerless.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'peerless',
-        'USER': 'root',
+        'NAME': 'template1',
+        'USER': 'postgres',
         'PASSWORD': 'collenchyma007',
         'HOST': 'localhost',
         'PORT': '5432',   
